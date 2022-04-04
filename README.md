@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @devendra-rgb
+- 👋 Hi, I’m @devendra
 - 👀 I’m interested in ... MachineLearning,DataScience,WebDevelopment
 - 🌱 I’m currently learning ... DataStructures and Algorithms
 - 💞️ I’m looking to collaborate on ... Competetive programming and Datascience Projects
