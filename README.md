@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @devendra
 - 👀 I’m interested in ... MachineLearning,DataScience,WebDevelopment
-- 🌱 I’m currently learning ... DataStructures and Algorithms
-- 💞️ I’m looking to collaborate on ... Competetive programming and Datascience Projects
+- 🌱 I’m currently learning ... Building END to END Machine Learning Projects with CI/CD pipelines 
+- 💞️ I’m looking to collaborate on ... Competetive programming and Datascience Projects Actively Looking for an Internship on Machine Learning
 - 📫 How to reach me ...devendratumu@gmail.com
 - Youtube Channel Link... https://www.youtube.com/developerdevendra
 
